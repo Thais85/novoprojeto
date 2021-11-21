@@ -5,14 +5,14 @@ Baixe a sua carteirinha de vacinação para comprovar que está vacinado contra 
 ## Baixe o aplicativo na PlayStore (Android)
 
 1. Abra a PlayStore.
-2. Digite Conecte SUS na busca (lupa).
+2. Digite Conecte SUS na busca ! [lupa] https://icones.pro/pt/icone-de-lupa-simbolo-png-preto/.
 3. Toque em instalar.
 4. Toque em abrir.
 
 ## Cadastre-se no aplicativo
 
 1. Toque em logar.
-2. Escreva seu CPF no campo "digite seu CPF".
+2. Escreva o número do seu CPF no campo Digite seu CPF.
 3. Crie uma senha.
 
 ## Baixe seu Certificado Nacional de Vacinação
