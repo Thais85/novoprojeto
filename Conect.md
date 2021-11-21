@@ -2,7 +2,7 @@
 
 Baixe a sua carteirinha de vacinação para comprovar que está vacinado contra a COVID-19. 
 
-## Baixe o aplicativo na PlayStore (Android)
+## Baixe o aplicativo do Conecte SUS na PlayStore (Android)
 
 1. Abra a PlayStore.
 2. Digite Conecte SUS na busca.
