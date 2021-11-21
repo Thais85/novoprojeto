@@ -5,7 +5,7 @@ Baixe a sua carteirinha de vacinação para comprovar que está vacinado contra 
 ## Baixe o aplicativo na PlayStore (Android)
 
 1. Abra a PlayStore.
-2. Digite Conecte SUS na busca ! [lupa] https://icones.pro/pt/icone-de-lupa-simbolo-png-preto/.
+2. Digite Conecte SUS na busca. ![lupa]https://icones.pro/pt/icone-de-lupa-simbolo-png-preto/
 3. Toque em instalar.
 4. Toque em abrir.
 
